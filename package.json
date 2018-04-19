@@ -2,7 +2,7 @@
   "name": "13lackninja.com",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "13lackninja.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
